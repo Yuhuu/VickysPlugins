@@ -1,0 +1,12 @@
+C:\Users\sayahuan\source\repos\VickysPlugins\VickysPlugins\bin\Debug\VickysPlugins.dll
+C:\Users\sayahuan\source\repos\VickysPlugins\VickysPlugins\bin\Debug\VickysPlugins.pdb
+C:\Users\sayahuan\source\repos\VickysPlugins\VickysPlugins\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\sayahuan\source\repos\VickysPlugins\VickysPlugins\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\sayahuan\source\repos\VickysPlugins\VickysPlugins\obj\Debug\VickysPlugins.csprojAssemblyReference.cache
+C:\Users\sayahuan\source\repos\VickysPlugins\VickysPlugins\obj\Debug\VickysPlugins.csproj.CoreCompileInputs.cache
+C:\Users\sayahuan\source\repos\VickysPlugins\VickysPlugins\obj\Debug\VickysPlugins.csproj.CopyComplete
+C:\Users\sayahuan\source\repos\VickysPlugins\VickysPlugins\obj\Debug\VickysPlugins.dll
+C:\Users\sayahuan\source\repos\VickysPlugins\VickysPlugins\obj\Debug\VickysPlugins.pdb
+C:\Users\sayahuan\source\repos\VickysPlugins\VickysPlugins\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\sayahuan\source\repos\VickysPlugins\VickysPlugins\bin\Debug\Microsoft.IdentityModel.dll
+C:\Users\sayahuan\source\repos\VickysPlugins\VickysPlugins\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
