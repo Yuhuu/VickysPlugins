@@ -33,17 +33,18 @@ namespace LeadProcess
 
                     // Create a lead 
                     Entity followup = new Entity("lead");
-
+                    //followup["emailaddress1"] = "hello@gasss.no";
+                    followup["companyname"] = "companyt";
+                    followup.Id = entity.Id;
                     // Refer to the lead 
 
-                    Guid regardingobjectid = entity.Id;
+
                     //new Guid(context.OutputParameters["id"].ToString());
 
-                        followup["emailaddress1"] = "hello@gasss";
-                        followup["leadid"] = regardingobjectid;
 
-                        // Obtain the organization service reference.
-                        IOrganizationServiceFactory serviceFactory =
+
+                    // Obtain the organization service reference.
+                    IOrganizationServiceFactory serviceFactory =
                            (IOrganizationServiceFactory)serviceProvider.GetService
                            (typeof(IOrganizationServiceFactory));
                         IOrganizationService service =
