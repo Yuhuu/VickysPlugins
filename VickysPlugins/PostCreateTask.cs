@@ -34,6 +34,7 @@ namespace LeadProcess
                     // Create a lead 
                     Entity followup = new Entity("lead");
                     //followup["emailaddress1"] = "hello@gasss.no";
+                    followup["emailaddress1"] = "awhatpostcreate@hotmail.com";
                     followup["companyname"] = "companyt";
                     followup.Id = entity.Id;
                     // Refer to the lead 
