@@ -6,4 +6,7 @@ The reconciliation process is where React
 
 Compares the previous internal instance with the next internal instance.
 Updates the internal Instance which is a Component Tree structure in JavaScript Object(Virtual DOM).
-And updates the actual DOM only at the node where there is an actual change along with it’s children.
+And updates the actual DOM only at the node where there is an actual change along with itâ€™s children.
+
+ES2015 const
+Conact(),  cause push() mutate the original arry, so it is not FP ready
