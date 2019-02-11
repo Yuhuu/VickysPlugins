@@ -22,4 +22,19 @@ pure function never changes any of the parameters that get passed to it by refer
 Data transfermation: data is changed by creating copy
 Array.reduce() transfer  that arry on anything else, like a  boolean, an object.
 
+Fibonacci sequence calculation. 
+
+video:
+https://www.uio.no/for-ansatte/enhetssider/los/usit/arrangementer/kompetansetimen/2015/20151029-react.html
+https://facebook.github.io/immutable-js/
+
+Var vs let as valirable in block.
+logical &&, while loops. for loops.
+console.log 
+String escape sequences. State is important. Destructuring i s a convenient way of extracting multiple values from data stored in  nested objects of array.
+Destructing objects. Do not modify your state
+Object.assgin
+
+Todo: homework: 
+
 
