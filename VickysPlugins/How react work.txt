@@ -9,4 +9,10 @@ Updates the internal Instance which is a Component Tree structure in JavaScript 
 And updates the actual DOM only at the node where there is an actual change along with it’s children.
 
 ES2015 const
-Conact(),  cause push() mutate the original arry, so it is not FP ready
+Conact(),  cause push() mutate the original arry, so it is not FP ready:
+example. 
+const a = [1,2]
+
+const c = [...a,3] so that const c = [1,2,3]
+
+
