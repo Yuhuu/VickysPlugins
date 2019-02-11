@@ -1,0 +1,9 @@
+If angular extended javascrip and Html.
+
+React works with Virtual DOM, state change, compute Diff, 
+
+The reconciliation process is where React
+
+Compares the previous internal instance with the next internal instance.
+Updates the internal Instance which is a Component Tree structure in JavaScript Object(Virtual DOM).
+And updates the actual DOM only at the node where there is an actual change along with it’s children.
