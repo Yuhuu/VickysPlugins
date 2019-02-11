@@ -15,4 +15,7 @@ const a = [1,2]
 
 const c = [...a,3] so that const c = [1,2,3]
 
+Pure function, passing the same parameters always result in the same output
+during its executionm a pure duncton does not change anything outside of it.
+
 
