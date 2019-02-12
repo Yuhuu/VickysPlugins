@@ -15,6 +15,10 @@ const a = [1,2]
 
 const c = [...a,3] so that const c = [1,2,3]
 
+
+State is like a data store to the ReactJS component. It is mostly used to update the component when user performed some action like clicking button, typing some text, pressing some key, etc.
+
+
 Pure function, passing the same parameters always result in the same output
 during its executionm a pure duncton does not change anything outside of it.
 pure function never changes any of the parameters that get passed to it by reference. (in js, object and array)
