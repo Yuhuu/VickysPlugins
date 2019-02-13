@@ -39,6 +39,11 @@ String escape sequences. State is important. Destructuring i s a convenient way 
 Destructing objects. Do not modify your state
 Object.assgin
 
-Todo: homework: 
+Todo: homework: UIO
+level service/ respirce øost. årpdict øost
+level 2, product offer
+level 3, resource assignments
+do extra things
+
 
 
