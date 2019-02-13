@@ -46,4 +46,6 @@ level 3, resource assignments
 do extra things
 
 
+core things from react bootstrap, react navigation, react redux, stylesheet with typescript
+
 
