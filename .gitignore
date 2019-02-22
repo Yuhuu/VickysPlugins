@@ -26,3 +26,9 @@ someOtherfoler/
 *.rar
 *.tar
 *.zip
+*.ide-wal
+*.ide-shm
+*.ide
+*.ide
+*.ide
+.vs/VickysPlugins/v15/.suo
